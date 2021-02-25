@@ -37,7 +37,12 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map-og.json"
+                 "value":"map-og.json"
+                }, 
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"map-og.json"
                 }],
          "type":"tilelayer",
          "visible":false,
